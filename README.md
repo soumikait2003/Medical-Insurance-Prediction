@@ -5,7 +5,7 @@ It uses a **Machine Learning model** trained on the `insurance.csv` dataset and 
 
 ---
 
-## 📂 Dataset
+## Dataset
 The dataset (`insurance.csv`) contains the following columns:
 
 - `age` → Age of the individual  
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the Flask app:
 
