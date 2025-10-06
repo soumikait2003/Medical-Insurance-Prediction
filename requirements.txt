@@ -1,4 +1,6 @@
 Flask
 pandas
 joblib
-gunicorn # Recommended for production deployment
+scikit-learn
+numpy
+gunicorn
